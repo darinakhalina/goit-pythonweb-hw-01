@@ -1,0 +1,14 @@
+[project]
+name = "goit-pythonweb-hw-01"
+version = "0.1.0"
+description = "hw-1"
+authors = [
+    {name = "Darina Khalina",email = "barmaleixxd@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
