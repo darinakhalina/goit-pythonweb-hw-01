@@ -74,17 +74,6 @@ files = [
 ]
 
 [[package]]
-name = "logging"
-version = "0.4.9.6"
-description = "A logging module for Python"
-optional = false
-python-versions = "*"
-groups = ["main"]
-files = [
-    {file = "logging-0.4.9.6.tar.gz", hash = "sha256:26f6b50773f085042d301085bd1bf5d9f3735704db9f37c1ce6d8b85c38f2417"},
-]
-
-[[package]]
 name = "mypy-extensions"
 version = "1.0.0"
 description = "Type system extensions for programs checked with the mypy type checker."
@@ -140,4 +129,4 @@ type = ["mypy (>=1.11.2)"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12"
-content-hash = "3dffd2740f1fbd81180587a797b2838a66df911887f0bc8bff8d63c89a862c4e"
+content-hash = "fad91fc6cec61739a38a435bf218b3cfb38ebb9cf18b2e4c998c1b5cf4c16deb"
